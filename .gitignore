@@ -1,3 +1,4 @@
 .idea/*
-venv/bin/*
-venv/share/python-wheels/*
+venv/*
+venv/*/*
+venv/*/*/*
